@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sweet Burst</string>
+    <string name="facebook_app_id">115015864866324</string>
+    <string name="camera_permission_denied_txt">Permission denied</string>
+    <string name="cannot_open_file_chooser_txt">Can not open file chooser</string>
+    <string name="facebook_client_token">10531583cc3e233ab8851734b70c0319</string>
+    <string name="camera_permission_granted_txt">Permission granted</string>
+    <string name="fb_login_protocol_scheme">fb115015864866324</string>
+</resources>
